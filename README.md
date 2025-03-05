@@ -1,1 +1,2 @@
-# aivle-mini-proj-3
+# AIVLE SCHOOL 미니프로젝트 3차
+## 스마트폰 센서 데이터 기반 모션 분류
